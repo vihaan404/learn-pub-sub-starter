@@ -2,11 +2,10 @@ package gamelogic
 
 import (
 	"fmt"
+	"github.com/vihaan404/learn-pub-sub-starter/internal/routing"
 	"log"
 	"os"
 	"time"
-
-	"github.com/bootdotdev/learn-pub-sub-starter/internal/routing"
 )
 
 const logsFile = "game.log"
